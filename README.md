@@ -27,7 +27,7 @@ The dashboard highlights:
 ### ✔ Data Analysis Using Excel Formulas  
 The following formulas were used:
 
-#### **1. IF Function – Sales Level**
+### **1. IF Function – Sales Level**
 ### **2. SUMIF – Total Sales by Region**
 ### **3. COUNTIF – High/Low Sales Count**
 ### **4. VLOOKUP – Fetch Category**
