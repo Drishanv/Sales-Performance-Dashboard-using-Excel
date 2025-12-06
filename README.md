@@ -1,7 +1,7 @@
 # 📊 Sales Performance Dashboard
 
 ## 📌 Overview
-This project presents a **Sales Performance Dashboard** created in Microsoft Excel as part of **Data Analytics Assignment – 01**.  
+This project presents a **Sales Performance Dashboard** created in Microsoft Excel as part of Neozeno data analytics program 
 The goal is to clean, analyze, visualize, and present key business insights from a sales dataset.
 
 The dashboard highlights:
