@@ -123,28 +123,6 @@ The completed **Sales Performance Dashboard** includes:
 
 ---
 
-## 📁 Files Included
-
-| File                                | Description |
-|-------------------------------------|-------------|
-| `Sales dataset.xlsx`                | Raw + cleaned dataset |
-| `Dashboard.xlsx`                    | Final Excel dashboard |
-| `YourName_DataAnalytics_Week1.pdf`  | PDF export for submission |
-| `README.md`                         | Documentation |
-
----
-
-## 🚀 How to Use This Project
-
-1. Download the Excel workbook.  
-2. Open in **Excel 2019/2021/Office 365**.  
-3. Navigate to the **Dashboard** sheet.  
-4. Review KPI cards and charts.  
-5. Explore Pivot Table sheets to view calculation logic.  
-6. Review the **PDF** for submission formatting.
-
----
-
 ## 📝 Conclusion
 
 This project demonstrates essential **Excel data analytics skills**, including:
@@ -158,9 +136,3 @@ This project demonstrates essential **Excel data analytics skills**, including:
 - PDF reporting  
 
 The **Sales Performance Dashboard** provides a comprehensive view of business performance across **regions**, **categories**, and **time**, making it valuable for academic and business use.
-
----
-
-
-=IF(R2>5000,"High","Low")# Sales-Performance-Dashboard-using-Excel
-The analysis is based on a sales dataset containing information such as orders, customers, regions, product categories, and sales amounts.
